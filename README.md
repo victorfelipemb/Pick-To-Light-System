@@ -40,6 +40,8 @@ Ventajas
 
 Para agilizar la recogida de material se incorporan dispositivos Pick to Light gestionados por un WMS. En esto es donde se centra el desarrollo de nuestro proyecto. La idea es implementar el sistema en una solución personalizada y configurada a las mejores practicas que complemente al WMS.
 
+
+
 # Pick To Light
 
 ***
