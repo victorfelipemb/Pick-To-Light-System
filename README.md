@@ -1,6 +1,8 @@
 # Pick-To-Light-System
 Sistema de Auto-Despacho de Carton Flow conectado a un WMS. 
 
+
+
 Todos los Centros de Distribución tarde o temprano necesitan de un control exhaustivo que les permita visualizar todas las operaciones y estar preparados para las eventualidades, crisis y oportunidades del propio mercado.
 
 El **WMS** o _Warehouse Management System_, es un software que mejora la  organización y optimiza los procesos y el manejo de los inventarios en tiempo real dentro de un Centro de Distribución. Es hoy en día imprescindible, puesto que no es posible obtener manualmente el grado de control y de gestión que el WMS proporciona.
