@@ -39,3 +39,36 @@ Ventajas
 ![](https://user-images.githubusercontent.com/38957524/44095974-c258fb92-9f9f-11e8-801e-47fa4ea8f8ff.png)
 
 Para agilizar la recogida de material se incorporan dispositivos Pick to Light gestionados por un WMS. En esto es donde se centra el desarrollo de nuestro proyecto. La idea es implementar el sistema en una solución personalizada y configurada a las mejores practicas que complemente al WMS.
+
+# Pick To Light
+
+***
+
+Los sistemas de surtido como el pick to light son ideales para optimizar el manejo de los productos de un almacén. Y lo que busca es reducir los errores de inventario, optimizar el trabajo de los operarios, incrementar el nivel de productividad.
+
+Las soluciones Pick-to-Light (o Pick-by-Light) se utilizan en sistemas donde son cruciales la velocidad del picking y una baja tasa de error.
+
+La idea es conseguir el ratio de productividad en picking más alto instalando un sistema Pick-to-Light aprovechando al máximo las operaciones de alta rotación. Para los operarios, un sistema Pick-to-Light es muy sencillo de utilizar y se alcanza un rendimiento máximo en muy poco tiempo.
+
+**Guiado por señales ópticas**
+Normalmente se instalan displays situados en los racks de las estanterías que dirigen al operario hacia la ubicación donde debe realizar el picking y le indican en pantalla la cantidad de producto a extraer.
+
+Después de la extracción, el operario confirma la tarea pulsando un botón y el indicador se apaga. Toda la información se intercambia en tiempo real con el sistema de gestión del almacén WMS.
+
+![](https://user-images.githubusercontent.com/38957524/44099147-931443f2-9fa7-11e8-97c4-0cb12e93371e.gif)
+
+Tradicionalmente, las áreas de picking han ido asociadas a un vasto despliegue de medios humanos y materiales, y de tiempos innecesarios. Como resultado, el picking ha sido siempre una actividad muy costosa en la operación del almacén.
+
+Los objetivos de un sistema de picking óptimo son:
+
+* Simplificar procesos
+* Acortar tiempos de trabajo
+* Eliminar errores
+* Ahorrar costes
+* Mejorar la satisfacción del cliente
+* Facilitar su implantación
+* Agilizar el flujo de procesos y productos
+
+El sistema Pick-to-Light deber ser lo suficientemente flexible como para hacer frente a las variaciones de capacidad y absorber los picos de productividad. Un algoritmo inteligente de cálculo de recursos y capacidades integrado en el sistema de gestión del picking le asegura sacar elmáximo partido de su inversión. De este modo se optimizan el número de operarios y las zonas de picking necesarias, reduciendo el tiempo de trabajo y agilizando el flujo de procesos.
+
+El software del Pick-to-Light integra la gestión de los displays, las órdenes de trabajo y la confirmación de tareas y un sistema de informes y de diagnosis de la operación del almacén.
